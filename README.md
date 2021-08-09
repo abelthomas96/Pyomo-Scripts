@@ -1,2 +1,2 @@
 # Pyomo-Scripts
-The scripts re-engineered and commented based not he udemy course by the "Optimisation team".
+The scripts re-engineered and commented based on the udemy course by the "Optimisation team".
